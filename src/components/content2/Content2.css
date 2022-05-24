@@ -1,0 +1,11 @@
+/* * {
+background-color: #ffffff;
+} */
+ .Content-2 {
+     margin-top: 50%;
+     padding: 10%;
+     display: flex;
+     font-size: 30px;
+     justify-content: center;
+       
+    }

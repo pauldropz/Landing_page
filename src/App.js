@@ -1,23 +1,24 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+// import { Footer, Navbar } from './components';
+import {Navbar} from "./components/navbar/Navbar"
+import { Button } from "./components/button/Button"
+import { Content2 } from './components/content2/Content2';
+import { Box2 } from './components/box2/Box2';
+import { Box3 } from './components/box3/Box3';
+import { Box4 } from './components/box4(grid)/Box4';
+import { Box5 } from './components/box5(dark)/Box5';
+const App = () => {
 
-function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <Navbar/>
+      <Button/>
+      <Content2/>
+      <Box2/>
+      <Box3/>
+      <Box4/>
+      <Box5/>
     </div>
   );
 }

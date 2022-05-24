@@ -1,0 +1,32 @@
+.Kontainer {
+    display: grid;
+    /* grid-template-columns: 20px 200px 200px 200px 200px 200px; */
+    background-color: #ffffff;
+    grid-gap: 2%;
+    width: auto;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Kontainer > div{
+    /* border:1px solid rgb(248, 248, 237); */
+    background-color: rgb(158, 149, 149);
+    height: 10vh;
+    width: 100vh;
+    border-radius: 10px;
+    column-gap: 20%;
+    
+
+}
+
+
+
+
+
+.ALOYOGA {
+    margin: 28.5%;
+    display: flex;
+    justify-content: flex-end;
+}

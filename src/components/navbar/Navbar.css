@@ -1,0 +1,16 @@
+.Nav-bar li {
+    background-color: #f3f4e9;
+}
+
+.Nav-bar, Lizt {
+    background-color: #f3f4e9;
+    height: 100px;
+    width: auto;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 2px #575c1841 solid;
+}
+
+

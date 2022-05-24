@@ -1,0 +1,31 @@
+.Integrate1 {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.Integrate2 {
+   align-items: center;
+    font-size: 70px;
+}
+.top-paragraph {
+    display: flex;
+    justify-content: center;
+}
+.bottom-paragraph {
+    display: flex;
+    justify-content: center;
+}
+
+
+.Integrate3 {
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+}
+.Integrate4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5%;
+    color: rgba(133, 130, 130, 0.856);
+}
