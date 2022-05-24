@@ -103,7 +103,7 @@ export const Box5 = () => {
 
 
                 <div className="control">
-                            <button>CONTROL</button>
+                            <button>CONTROL</button>  //comment
                 </div>
                 
                 <div className="rm">
