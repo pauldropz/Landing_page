@@ -7,7 +7,7 @@ import "./Box2.css";
 export const Box2 = () => {
     return (
         <>
-
+                                                {/* CONTAINER The most powerful and flexible drag and drop visual editor */}
             <div class="Container">
             <div className="Box-2">
                         <h1>Visual Editor</h1>

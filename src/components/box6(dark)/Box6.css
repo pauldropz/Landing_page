@@ -1,0 +1,14 @@
+.box6container {
+    box-sizing: border-box;
+    height: 800px;
+     width: 98%;
+    background-color: rgba(140, 142, 162, 0.133);
+    margin-top: -55%;
+}
+.heading {
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 4%;
+}

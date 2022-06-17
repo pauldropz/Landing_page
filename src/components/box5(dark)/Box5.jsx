@@ -9,6 +9,7 @@ import "./Box5.css";
 export const Box5 = () => {
     return (
         <>
+                                                                    {/* SPEED BUTTON CONTAINER */}
             <div className="Darkside">
                 <div className="darksideContent1">
 
@@ -49,17 +50,17 @@ export const Box5 = () => {
                 </div>
                 <div className="darksideContent7">
 
-                            <h3>Publish content and experiences, instantly</h3>
+                            Publish content and experiences, instantly
 
                 </div>
 
                 <div className="darksideContent8">
-                            <h6>Drag and drop to edit and add custom experiences to your existing sites and</h6>
+                            Drag and drop to edit and add custom experiences to your existing sites and
 
                 </div>
 
                 <div className="darksideContent9">
-                           <h5> Everything you create is blazing fast and highly performant under</h5>
+                       Everything you create is blazing fast and highly performant under
 
                 </div>
                 <div className="darksideContent10">
@@ -103,25 +104,25 @@ export const Box5 = () => {
 
 
                 <div className="control">
-                            <button>CONTROL</button>  //comment
+                            <button>CONTROL</button>  
                 </div>
                 
                 <div className="rm">
-                        <h1>Remove <br/> dependencies,<br/> move faster</h1><br/>
+                        Remove <br/> dependencies,<br/> move faster<br/>
 
                 </div>
 
                     <div className="boxx">
-                        <div className="boxcont">
+                        <div className="boxcont1">
                             control your workflow with roles and permission
                         </div>
-                        <div className="boxcont">
+                        <div className="boxcont2">
                             collaborate in real-time with your team mate
                         </div>
-                        <div className="boxcont">
+                        <div className="boxcont3">
                             Manage content across countless sites,apps,store
                         </div>
-                        <div className="boxcont">
+                        <div className="boxcont4">
                             Free up developers to write code, not content
                         </div>
 
