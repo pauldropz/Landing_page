@@ -1,6 +1,6 @@
 import React from "react";
-import "./index"
-import "./Button.css"
+import "./Button";
+import "./Button.css";
 
 
 
@@ -13,7 +13,7 @@ export const Button = () => {
         
         <>
             <div className="Butt">
-                <button className="Button">For Business Users</button><button className="Button">For Developers</button>       
+                <button className="Button1">For Business Users</button><button className="Button2">For Developers</button>       
             </div>
         </>
 

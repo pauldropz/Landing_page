@@ -16,21 +16,33 @@ export const Box6 = () => {
 
                         </div>
 
-                        <div className="List folks">
+                        <div className="listFolks">
+                <div>
                 Blazing fast content delivery at the edge
+                </div>
+
+                <div>
 
                 smart requests with our GraphQL API
+               
+                </div>
 
+                <div>
                 Advanced image optimization
+                </div>
 
+
+                <div>
                 Customize everything
-
+                </div>
 
                 your components, plugins, everything!
 
 
                 Server side rendering support
-                        </div>
+                
+                
+                </div>
 
 
                  
