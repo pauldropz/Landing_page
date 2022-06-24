@@ -1,9 +1,8 @@
 import React from 'react';
 import './App.css';
-// import { Footer, Navbar } from './components';
 import {Navbar} from "./components/navbar/Navbar"
 import { Button } from "./components/button/Button"
-import { Content2 } from './components/content2/Content2';
+import { Box1 } from './components/box1/Box1';
 import { Box2 } from './components/box2/Box2';
 import { Box3 } from './components/box3/Box3';
 import { Box4 } from './components/box4(grid)/Box4';
@@ -15,7 +14,7 @@ const App = () => {
     <div className="container">
       <Navbar/>
       <Button/>
-      <Content2/>
+      <Box1/>
       <Box2/>
       <Box3/>
       <Box4/>
