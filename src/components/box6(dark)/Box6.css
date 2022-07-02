@@ -1,13 +1,15 @@
 .box6container {
     box-sizing: border-box;
-    height: 800px;
-     width: 98%;
-    background-color: rgba(140, 142, 162, 0.133);
+    height: 666px;
+     width: 1160px;
+    background-color: rgba(39, 40, 48, 0.133);
     margin-top: -55%;
     font-weight: 400px;
+    margin:-55% 0px 0px 15%
+    
 }
 .heading {
-    color: white;
+    color: #f4f3e9;
     font-size: 30px;
     display: flex;
     justify-content: center;
@@ -16,7 +18,51 @@
 
 
 .listFolks {
-  color: #ffffff;
+  color: #f4f3e9;
+  /* background-color: rgba(62, 62, 66, 0.133); */
+  width: fit-content;
+  height: 390px;
+  margin: 87px 0px 0px 121px;
+  font-size: 24px;
+  line-height: 37px;
+  letter-spacing: 0.45px;
 }
 
 
+.listFolks1 {
+  margin: 87px 0px 0px 0px;
+
+}
+.listFolks2 {
+  margin: 10px 0px 0px 0px;
+}
+
+.listFolks3 {
+
+  margin: 20px 0px 0px 0px;
+
+  }
+  
+  .listFolks4 {
+margin: 20px 0px 0px 0px;
+    }
+    
+    .listFolks5 {
+      margin: 1px 0px 0px 0px;
+      font-size: 15px;
+      letter-spacing: 0.36px;
+      line-height: 36px;
+
+      }
+
+
+      .darkEnding1 {
+        color: #f4f3e9;
+        text-align: center;
+        margin: 100px 0px 0px 0px;
+
+      }
+      .darkEnding2 {
+        color: #f4f3e9;
+        margin: 30px 0px 0px 0px;
+      }

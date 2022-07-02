@@ -8,6 +8,7 @@ import { Box3 } from './components/box3/Box3';
 import { Box4 } from './components/box4(grid)/Box4';
 import { Box5 } from './components/box5(dark)/Box5';
 import { Box6 } from './components/box6(dark)/Box6';
+import { Box7 } from './components/box7(white)/Box7';
 const App = () => {
 
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <Box4/>
       <Box5/>
       <Box6/>
+      <Box7/>
     </div>
   );
 }

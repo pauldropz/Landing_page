@@ -16,34 +16,52 @@ export const Box6 = () => {
 
                         </div>
 
-                        <div className="listFolks">
-                <div>
-                Blazing fast content delivery at the edge
+          <div className="listFolks">
+                <div className="listFolks1">
+                Blazing fast content delivery at<br></br> the edge
                 </div>
 
-                <div>
+                <div className="listFolks2">
 
                 smart requests with our GraphQL API
                
                 </div>
 
-                <div>
+                <div className="listFolks3">
                 Advanced image optimization
                 </div>
 
 
-                <div>
+                <div className="listFolks4">
                 Customize everything
                 </div>
-
-                your components, plugins, everything!
-
-
-                Server side rendering support
                 
+
+                <div className="listFolks5">
+                your components, plugins, everything!
+                </div>
+                
+
+                <div className="listFolks6">
+                Server side rendering support
+                </div>
                 
                 </div>
+                
+                <div className="darkEnding1">
 
+                                WHAT WILL YOU BUILD?
+
+
+                <div className="darkEnding2">                   
+                
+                Start building for Free      
+                
+                </div>
+                </div>
+                <div className="Whitez">
+
+                </div>
 
                  
                 </div>

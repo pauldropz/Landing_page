@@ -7,6 +7,7 @@ import { Box3 } from "./box3/Box3";
 import { Box4 } from "./box4(grid)/Box4";
 import { Box5 } from "./box5(dark)/Box5";
 import { Box6 } from "./box6(dark)/Box6";
+import { Box7 } from "./box7(white)/Box7";
 
 export {
     Navbar,
@@ -17,4 +18,5 @@ export {
     Box4,
     Box5,
     Box6,
+    Box7,
 }

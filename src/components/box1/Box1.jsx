@@ -1,8 +1,6 @@
 import React from "react";
 import "./Box1";
 import "./Box1.css"
-import Vector from "../../assets/images/Vector.jpg";
-
 
 export const Box1 = () => {
     return (
